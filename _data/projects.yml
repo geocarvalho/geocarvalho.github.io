@@ -15,8 +15,9 @@
 - name: "Aneuploidy Analysis from WGS"
   description: "Genome-wide aneuploidy assessment from whole genome sequencing data using AStra and QDNAseq. Performed as part of a published case study in Haematologica investigating fraternal twins with HJV mutations and discordant hemochromatosis severity. The analysis ruled out chromosomal abnormalities in a trio (proband + parents) by generating aneuploidy profiles, spectra, and copy number calls from standard-depth WGS."
   tech: "AStra, QDNAseq, R, WGS, Copy Number Analysis"
-  url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC11290577/"
+  url: ""
   github: ""
+  paper: "https://pmc.ncbi.nlm.nih.gov/articles/PMC11290577/"
   blog_post: "/bioinformatics/2023/11/03/aneuploidy-analysis-from-whole-genome-sequencing.html"
 
 - name: "Simple Text-to-Speech"

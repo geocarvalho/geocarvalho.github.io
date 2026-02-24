@@ -19,6 +19,9 @@ A selection of projects I've worked on.
     {% if project.url != "" %}
       <a href="{{ project.url }}">Live Demo</a>
     {% endif %}
+    {% if project.paper %}
+      <a href="{{ project.paper }}">Paper</a>
+    {% endif %}
     {% if project.blog_post %}
       <a href="{{ project.blog_post | relative_url }}">Read More</a>
     {% endif %}
