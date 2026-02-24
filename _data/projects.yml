@@ -12,6 +12,13 @@
   github: "https://github.com/uclanelsonlab/nl-wgs_wf"
   blog_post: "/bioinformatics/2025/10/29/building-wgs-pipeline-rare-diseases-aws-healthomics.html"
 
+- name: "Aneuploidy Analysis from WGS"
+  description: "Genome-wide aneuploidy assessment from whole genome sequencing data using AStra and QDNAseq. Performed as part of a published case study in Haematologica investigating fraternal twins with HJV mutations and discordant hemochromatosis severity. The analysis ruled out chromosomal abnormalities in a trio (proband + parents) by generating aneuploidy profiles, spectra, and copy number calls from standard-depth WGS."
+  tech: "AStra, QDNAseq, R, WGS, Copy Number Analysis"
+  url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC11290577/"
+  github: ""
+  blog_post: "/bioinformatics/2023/11/03/aneuploidy-analysis-from-whole-genome-sequencing.html"
+
 - name: "Simple Text-to-Speech"
   description: "A command-line tool for converting text files to MP3 audio using Microsoft Edge TTS neural voices. Supports customizable speech rate, multi-language voice selection, progress tracking, and simple CLI interface. Useful for creating audiobook-style recordings from plain text files, accessibility, or language learning."
   tech: "Python, edge-tts, Microsoft Edge TTS, CLI"
