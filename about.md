@@ -33,6 +33,10 @@ I thrive in collaborative environments where science, engineering, and medicine 
 
 See the full list on [Google Scholar](https://scholar.google.com/citations?user=Q0P0DHsAAAAJ&hl=en).
 
+- **[Frequency of ZFHX3-Mediated Spinocerebellar Ataxia 4 in a US Undiagnosed Ataxia Cohort](https://movementdisorders.onlinelibrary.wiley.com/doi/10.1002/mds.70387)**
+  Chen, Annie, Udbhav Avadhani, Kathie Ngo, Rosario I. Corona, George de V. Carvalho Neto, Karla P. Figueroa, Undiagnosed Diseases Network et al.
+  *Movement Disorders*, 2026
+
 - **[Joint, multifaceted genomic analysis enables diagnosis of diverse, ultra-rare monogenic presentations](https://www.nature.com/articles/s41467-025-61712-2)**
   SN Kobren, MA Moldovan, R Reimers, D Traviglia, X Li, D Barnum, A Veit, et al.
   *Nature Communications*, 2025
